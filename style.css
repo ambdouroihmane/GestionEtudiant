@@ -1,0 +1,8 @@
+body {
+    background-color: rgb(231, 231, 245);
+    min-height: 100vh;
+}
+
+.fa-solid {
+    pointer-events: none;
+}
